@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/check_bg2">
+	
+	<TextView
+		android:id="@+id/checkTitle"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:paddingLeft="5dp"
+		android:paddingRight="5dp"
+		android:textSize="20sp"
+		android:textColor="#3c3f3c"
+		android:layout_marginTop="15dp"
+		android:text=""
+		/>
+	<TextView
+		android:id="@+id/checkTime"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="5dp"
+		android:gravity="right"
+		android:paddingRight="5dp"
+		android:textSize="10sp"
+		android:textColor="#3c3f3c"
+		android:text=""
+		/>
+	<TextView
+		android:id="@+id/checkContent"
+		android:layout_width="fill_parent"
+		android:layout_height="200dp"
+		android:layout_marginTop="5dp"
+		android:lineSpacingExtra="4dp"
+		android:paddingLeft="5dp"
+		android:paddingRight="5dp"
+		android:gravity="left"
+		android:textSize="20sp"
+		android:textColor="#3c3f3c"
+		android:text=""
+		/>
+	
+</LinearLayout>

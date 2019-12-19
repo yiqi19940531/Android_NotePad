@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zhangyiqi/Desktop/Notepad_as/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/zhangyiqi/Desktop/Notepad_as/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,4,7,6,3",
+                        "startColumns": "1,4,1,1,4",
+                        "startOffsets": "137,98,222,188,59",
+                        "endColumns": "49,40,33,32,37",
+                        "endOffsets": "185,134,254,219,92"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,149,186,222",
+                        "endColumns": "52,40,36,35,37",
+                        "endOffsets": "103,144,181,217,255"
+                    }
+                }
+            ]
+        }
+    ]
+}

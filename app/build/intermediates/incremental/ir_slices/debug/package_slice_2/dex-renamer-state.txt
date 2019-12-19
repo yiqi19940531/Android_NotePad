@@ -1,0 +1,4 @@
+#Wed Dec 18 23:38:16 EST 2019
+base.0=/Users/zhangyiqi/Desktop/Notepad_as/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

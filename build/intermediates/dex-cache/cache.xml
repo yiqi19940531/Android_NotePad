@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Notepad_as\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae8f8e74e10b0245bab06640f6135f2cc7147f0d">
+        <dex dex="E:\Notepad_as\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_adca7408f2005ed4cd4d2dd45ffe4c8af317d51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Notepad_as\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ecbc2bfea63f39eb25960bceb9dc608857c6b3f">
+        <dex dex="E:\Notepad_as\app\build\intermediates\pre-dexed\debug\instant-run_8fbfe56034071a548fe3566d049f00c1e2303626.jar" />
+    </item>
+
+</items>

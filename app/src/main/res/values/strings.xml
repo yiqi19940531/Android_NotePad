@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">记事本</string>
+    <string name="app_name">记事本</string>
+	<string name="addButtonText">Add Record</string>
+	<string name="edit">编辑</string>
+	<string name="check">查看</string>
+</resources>

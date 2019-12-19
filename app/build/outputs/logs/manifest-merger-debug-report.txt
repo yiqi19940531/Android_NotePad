@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:7:5-17
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:7:5-17
+INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:7:5-17
+	android:minSdkVersion
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:7:5-17
+		INJECTED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:9:5-29:19
+	android:label
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:10:9-46
+activity#com.notepad.namespace.NotepadActivity
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:13:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.notepad.namespace.NotepadEditActivity
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:21:9-24:20
+	android:label
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:22:13-41
+	android:name
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:21:19-54
+activity#com.notepad.namespace.NotepadCheckActivity
+ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:25:17-28:20
+	android:label
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:26:13-42
+	android:name
+		ADDED from /Users/zhangyiqi/Desktop/Notepad_as/app/src/main/AndroidManifest.xml:25:27-63
